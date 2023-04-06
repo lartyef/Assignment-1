@@ -1,0 +1,15 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+}
+
+.ordered-list {
+    display: inline-block;
+}
+.unordered-list {
+    list-style-type: circle;
+    display: inline-block;
+
+}
